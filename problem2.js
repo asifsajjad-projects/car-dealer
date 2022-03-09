@@ -7,6 +7,6 @@ function getLastCar()
 {
     return `Last car is a ${last_car.car_make} ${last_car.car_model}.`;
 }
-console.log(getLastCar());
+// console.log(getLastCar());
 
 module.exports = getLastCar;
