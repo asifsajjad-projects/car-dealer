@@ -32,5 +32,5 @@ for(let j=0; j<carYears.length;j++)
 // console.log(carYears);
 // console.log(uniqCarYears);
 
-module.exports = carYears;
-module.exports = uniqCarYears;
+exports.carYears = carYears;
+exports.uniqCarYears = uniqCarYears;
