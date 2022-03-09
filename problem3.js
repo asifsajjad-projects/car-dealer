@@ -72,6 +72,6 @@ function modelSort(arr)
 carModels= modelSort(carModels);
 // console.log(carModels.sort());
 // console.log(modelSort(carModels));
-console.log(carModels);
+// console.log(carModels);
 
 module.exports = carModels;
