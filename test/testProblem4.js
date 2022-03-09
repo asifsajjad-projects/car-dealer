@@ -1,5 +1,5 @@
-const carYears = require('../problem4');
-const uniqCarYears = require('../problem4');
+const cars = require('../problem4');
 
-console.log(carYears);
-console.log(uniqCarYears);
+console.log(cars.carYears);
+console.log('Unique car years are:');
+console.log(cars.uniqCarYears);
